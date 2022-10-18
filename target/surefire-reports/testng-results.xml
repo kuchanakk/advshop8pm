@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-18T20:07:53 IST" name="Suite1" finished-at="2022-10-18T20:09:02 IST" duration-ms="68893">
+    <groups>
+    </groups>
+    <test started-at="2022-10-18T20:07:53 IST" name="projecttest" finished-at="2022-10-18T20:09:02 IST" duration-ms="68893">
+      <class name="pack1.PopItemstest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pack1.PopItemstest@6f27a732]" started-at="2022-10-18T20:07:53 IST" name="setup" finished-at="2022-10-18T20:07:54 IST" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:pack1.PopItemstest@6f27a732]" started-at="2022-10-18T20:07:54 IST" name="browseropen" finished-at="2022-10-18T20:08:05 IST" duration-ms="11092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method signature="laptopTest()[pri:0, instance:pack1.PopItemstest@6f27a732]" started-at="2022-10-18T20:08:05 IST" name="laptopTest" finished-at="2022-10-18T20:08:18 IST" duration-ms="13212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laptopTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:pack1.PopItemstest@6f27a732]" started-at="2022-10-18T20:08:18 IST" name="closebrowser" finished-at="2022-10-18T20:08:19 IST" duration-ms="1081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:pack1.PopItemstest@6f27a732]" started-at="2022-10-18T20:08:19 IST" name="browseropen" finished-at="2022-10-18T20:08:27 IST" duration-ms="7721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method signature="spktest()[pri:0, instance:pack1.PopItemstest@6f27a732]" started-at="2022-10-18T20:08:27 IST" name="spktest" finished-at="2022-10-18T20:08:40 IST" duration-ms="12749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spktest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:pack1.PopItemstest@6f27a732]" started-at="2022-10-18T20:08:40 IST" name="closebrowser" finished-at="2022-10-18T20:08:41 IST" duration-ms="1250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:pack1.PopItemstest@6f27a732]" started-at="2022-10-18T20:08:41 IST" name="browseropen" finished-at="2022-10-18T20:08:49 IST" duration-ms="7428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method signature="tabletest()[pri:0, instance:pack1.PopItemstest@6f27a732]" started-at="2022-10-18T20:08:49 IST" name="tabletest" finished-at="2022-10-18T20:09:00 IST" duration-ms="11900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabletest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:pack1.PopItemstest@6f27a732]" started-at="2022-10-18T20:09:00 IST" name="closebrowser" finished-at="2022-10-18T20:09:01 IST" duration-ms="941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="endtest()[pri:0, instance:pack1.PopItemstest@6f27a732]" started-at="2022-10-18T20:09:01 IST" name="endtest" finished-at="2022-10-18T20:09:02 IST" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtest -->
+      </class> <!-- pack1.PopItemstest -->
+    </test> <!-- projecttest -->
+  </suite> <!-- Suite1 -->
+</testng-results>
